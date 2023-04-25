@@ -1,2 +1,4 @@
 # phant0m-jailbreak
-My totally real jb for every iOS ver out there
+My totally real jb for every iOS version out there
+
+## THIS IS JUST A JOKE
